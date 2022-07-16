@@ -48,4 +48,4 @@ for photo in photos:
     date = ("".join(date))
     pic_url = f"https://epic.gsfc.nasa.gov/archive/natural/{date}/png/{image}.png"
 
-    #picfiles()
+    picfiles()
